@@ -17,17 +17,17 @@ export default function SortableItem(props) {
         transform: CSS.Transform.toString(transform),
         transition,
     }
-
+    const className = props.className;
     if (props.className === "correct"){
         
         return (<div ref={setNodeRef} style={style} {...attributes} {...listeners}>
-            <Card body className="m-1">{props.id} {props.percentage}</Card>
+            <Card body className={className} >{props.id} {props.percentage}</Card>
         </div>)
     }
 
     return (
         <div ref={setNodeRef} style={style} {...attributes} {...listeners}>
-            <Card body className="m-1">{props.id}</Card>
+            <Card body className={className}>{props.id}</Card>
 
         </div>
     )
