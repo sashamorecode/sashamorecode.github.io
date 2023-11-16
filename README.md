@@ -3,7 +3,9 @@
 This project is a simple React application. It uses the @dnd-kit/core and @dnd-kit/sortable libraries to create a drag-and-drop interface for sorting different energy sources.
 
 Features
-- Energy Sources: The application displays a list of energy sources, including Solar, Wind, Coal, Gas, and Oil. Each source is represented as a draggable card that displays the source's name and its usage percentage.
+- Energy Sources: The application displays a list of energy sources, including Solar, Wind, Coal, Gas, and Oil. Each source is represented as a draggable card that displays the source's name.
+
+- Check Answers will turn cards in the correct position greeen and those in inncorect positions red, addidionaly it will also display the usage % if correct. 
 
 - Drag and Drop: Users can rearrange the energy sources by dragging and dropping the cards. The order of the cards is maintained in the application's state.
 
