@@ -11,3 +11,7 @@ Features
 
 Usage
 To run the application, clone the repository and install the dependencies using npm install. Then, start the application using npm start dev.
+![Screenshot 2023-11-16 at 18-30-12 Vite React](https://github.com/sashamorecode/Smart_City_Demo/assets/34610924/f1a9158e-ead2-4c9e-beec-3cadf6f9bdca)
+![Screenshot 2023-11-16 at 18-30-21 Vite React](https://github.com/sashamorecode/Smart_City_Demo/assets/34610924/41c7f80b-357b-4acf-990b-600c47b94eb6)
+![Screenshot 2023-11-16 at 18-30-34 Vite React](https://github.com/sashamorecode/Smart_City_Demo/assets/34610924/05f61ecc-d0da-4c27-aa6e-809d47d672b7)
+![Screenshot 2023-11-16 at 18-30-42 Vite React](https://github.com/sashamorecode/Smart_City_Demo/assets/34610924/0a6a487f-bec5-40df-83c1-4823b8703065)
