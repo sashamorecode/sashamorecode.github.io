@@ -16,7 +16,7 @@ import Button from 'react-bootstrap/Button';
 import { func } from 'prop-types'
 
 
-
+// Define initial state for energy sources
 const sourceData = [{id:"Solar", content:"Solar", usage: "5%", className:"card"}, 
   {id:"Wind", content:"Wind", usage: "10%", className:"card"},
   {id:"Coal", content:"Coal", usage: "20%", className:"card"},
