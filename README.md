@@ -1,4 +1,4 @@
-#Smart City Demo
+# Smart City Demo
 
 This project is a simple React application. It uses the @dnd-kit/core and @dnd-kit/sortable libraries to create a drag-and-drop interface for sorting different energy sources.
 
